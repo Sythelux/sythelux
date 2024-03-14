@@ -1,10 +1,10 @@
-# 👋🏿🐻 Heya 
+# 👋🏾🐻 Heya 
 
 <a href="#"> <!-- https://blog.phenjara.de/ -->
     <img src="imgs/wordpress.svg" alt="wordpress" style="vertical-align:top margin:6px 4px">
 </a>
 
-## 🔭 Interests 
+**🔭 Interests**
 
 <p align="center">
     <img src="imgs/gamedev.svg" alt="gamedev" style="vertical-align:top margin:6px 4px">
@@ -16,7 +16,7 @@
     <img src="imgs/docker.svg" alt="docker" style="vertical-align:top margin:6px 4px">
 </p>
 
-## ⚡ Engines / IDEs of Choice 
+**⚡ Engines / IDEs of Choice**
 
 <p align="left">
     <img src="imgs/godot.svg" alt="godot" style="vertical-align:top margin:6px 4px">
@@ -26,7 +26,7 @@
 </p>
 
 
-## 💬 Languages of Choice
+**💬 Languages of Choice**
 
 <p align="right">
     <img src="imgs/bash.svg" alt="bash" style="vertical-align:top margin:6px 4px">
@@ -35,7 +35,7 @@
     <img src="imgs/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
 </p>
 
-## ✨ Stats
+**✨ Stats**
 
 ![sythelux visitor counter](https://komarev.com/ghpvc/?username=sythelux&color=green&style=flat-square&label=Profile+pokes)
 
