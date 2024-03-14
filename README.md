@@ -3,6 +3,7 @@
 <a href="#"> <!-- https://blog.phenjara.de/ -->
     <img src="imgs/wordpress.svg" alt="wordpress" style="vertical-align:top margin:6px 4px">
 </a>
+<br />
 
 **🔭 Interests**
 
@@ -15,6 +16,7 @@
     <img src="imgs/datascience.svg" alt="datascience" style="vertical-align:top margin:6px 4px">
     <img src="imgs/docker.svg" alt="docker" style="vertical-align:top margin:6px 4px">
 </p>
+<br />
 
 **⚡ Engines / IDEs of Choice**
 
@@ -24,7 +26,7 @@
     <img src="imgs/jetbrains_clion.svg" alt="jetbrains clion" style="vertical-align:top margin:6px 4px">
     <img src="imgs/jetbrains_rider.svg" alt="jetbrains rider" style="vertical-align:top margin:6px 4px">
 </p>
-
+<br />
 
 **💬 Languages of Choice**
 
@@ -34,6 +36,7 @@
     <img src="imgs/rust.svg" alt="rust" style="vertical-align:top margin:6px 4px">
     <img src="imgs/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
 </p>
+<br />
 
 **✨ Stats**
 
